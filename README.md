@@ -18,4 +18,8 @@
 - [2020, 당신 취향의 맛집을 추천해드립니다 : 장소 개인화 추천 시스템의 비밀](https://tv.naver.com/v/16968206?query=NAVER+Engineering%2C+%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C&plClips=false:16137697:16968206:19499805:15624686:15436151:16970750:19451057:18582667:19149564:15841749:18387813:4580088:14347749:14951460:19188921:1543714:3144570:16968208:16972082:16971866:16972084:5874822:16366105:16405099:19244453:19040189:2297146:19489169:18996671:15776820:18634923:16968202:19248843:19223749:16028986:18973670:19028868:18514575:14711496:17022125)
 - [2021, Item2Item: Wider and Deeper Product Recommendation](https://tv.naver.com/v/20311903/list/709884)
 - [2021, 카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
-- 추가중
+- [2021, 카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/)
+- [2021, 카카오 AI추천 : 카카오페이지와 멜론으로 살펴보는 카카오 연관 추천](https://tech.kakao.com/2021/05/20/kakao-ai-recommendation/)
+- [2021, 카카오 AI 추천을 소개합니다.](https://tech.kakao.com/2021/03/11/kakao-ai/)
+- [2016, 루빅스(RUBICS) – kakao의 실시간 추천 시스템](https://tech.kakao.com/2016/04/27/rubics/)
+- [2017, CF기술•RNN기술의 장점이 융합된 ‘AiRS(에어스)’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
