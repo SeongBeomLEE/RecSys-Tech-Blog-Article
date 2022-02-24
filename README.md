@@ -26,5 +26,5 @@
 - [2021, 카카오 AI 추천을 소개합니다.](https://tech.kakao.com/2021/03/11/kakao-ai/)
 - [2016, 루빅스(RUBICS) – kakao의 실시간 추천 시스템](https://tech.kakao.com/2016/04/27/rubics/)
 - [2017, CF기술•RNN기술의 장점이 융합된 ‘AiRS(에어스)’가 모바일 뉴스판에 시범 적용됩니다](https://blog.naver.com/naver_search/221105431207)
-- [개인화 서비스는 어떻게 만드나요? - 1편](https://brunch.co.kr/@plusx/30)
-- [개인화 서비스는 어떻게 만드나요? - 2편](https://brunch.co.kr/@plusx/32)
+- [2019, 개인화 서비스는 어떻게 만드나요? - 1편](https://brunch.co.kr/@plusx/30)
+- [2019, 개인화 서비스는 어떻게 만드나요? - 2편](https://brunch.co.kr/@plusx/32)
