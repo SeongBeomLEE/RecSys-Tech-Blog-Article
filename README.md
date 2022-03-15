@@ -1,4 +1,8 @@
 # RecSys-Tech-Blog-Article
+추천 시스템 관련 기술 블로그 자료를 모은 Repository
+
+# List
+- [2022, Bag-of-Tricks for Recommendation: Recency, Clustering 그리고 Item Shuffling](https://blog.getliner.com/bag-of-tricks-for-recommendation-recency-clustering-%ea%b7%b8%eb%a6%ac%ea%b3%a0-item-shuffling/)
 - [2022, 컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing](https://blog.getliner.com/%ec%bb%a8%ed%85%90%ec%b8%a0-%ea%b8%b0%eb%b0%98-%ed%95%84%ed%84%b0%eb%a7%81-%ea%b5%ac%ec%b6%95%ea%b8%b0-minilm-scann-%ea%b7%b8%eb%a6%ac%ea%b3%a0-tfserving/)
 - [2021, 양질 중 우선시 되어야 하는 것은? Quality!](https://blog.getliner.com/%ec%96%91%ec%a7%88-%ec%a4%91-%ec%9a%b0%ec%84%a0%ec%8b%9c-%eb%90%98%ec%96%b4%ec%95%bc-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-quality/)
 - [2020, 하이라이팅 구문을 통한 추천 API 구현](https://blog.getliner.com/recommendation-api-using-highlights/)
