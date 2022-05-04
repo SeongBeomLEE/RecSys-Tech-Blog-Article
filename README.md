@@ -12,9 +12,11 @@
 
 ## Pinterest
 - [2018, An update on Pixie, Pinterest’s recommendation system](https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b)
+- 
 
 ## Riiid
 - [2020, AI 프로젝트 실패의 5가지 원인](https://medium.com/riiid-teamblog-kr/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
+- 
 
 ## 번개장터
 - [2019, 번개장터 추천 시스템 개발 및 도입후기 Part1](https://www.theteams.kr/teams/7937/post/70672)
