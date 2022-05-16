@@ -88,3 +88,7 @@
 - [2021, Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
 - [2021, Item2Item: Wider and Deeper Product Recommendation](https://tv.naver.com/v/20311903/list/709884)
 - [2021, Overview Negative Sampling on Recommendation Systems](https://medium.com/mlearning-ai/overview-negative-sampling-on-recommendation-systems-230a051c6cd7)
+- [2021, ‘별점’의 함정, 무엇이 문제인가](https://zdnet.co.kr/view/?no=20210524104310)
+- [2021, ‘별점’의 해결책 "집단지성 메커니즘 제대로 작동해야"](https://zdnet.co.kr/view/?no=20210531153513)
+- [2021, AI 알고리즘의 딜레마...‘선택의 역설’vs‘에코챔버’·‘필터버블’](https://zdnet.co.kr/view/?no=20210621135006)
+- [2022, [Translation] Recommender Systems, Not Just Recommender Models](https://higee.io/translation-recommender-systems-not-just-recommender-models-c024a97d7d74)
