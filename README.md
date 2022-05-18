@@ -91,4 +91,5 @@
 - [2021, ‘별점’의 함정, 무엇이 문제인가](https://zdnet.co.kr/view/?no=20210524104310)
 - [2021, ‘별점’의 해결책 "집단지성 메커니즘 제대로 작동해야"](https://zdnet.co.kr/view/?no=20210531153513)
 - [2021, AI 알고리즘의 딜레마...‘선택의 역설’vs‘에코챔버’·‘필터버블’](https://zdnet.co.kr/view/?no=20210621135006)
+- [2021, How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/)
 - [2022, [Translation] Recommender Systems, Not Just Recommender Models](https://higee.io/translation-recommender-systems-not-just-recommender-models-c024a97d7d74)
