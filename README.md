@@ -10,6 +10,14 @@
 - [2022, Bag-of-Tricks for Recommendation: Recency, Clustering 그리고 Item Shuffling](https://blog.getliner.com/bag-of-tricks-for-recommendation-recency-clustering-%ea%b7%b8%eb%a6%ac%ea%b3%a0-item-shuffling/)
 - [2022, 컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing](https://blog.getliner.com/%ec%bb%a8%ed%85%90%ec%b8%a0-%ea%b8%b0%eb%b0%98-%ed%95%84%ed%84%b0%eb%a7%81-%ea%b5%ac%ec%b6%95%ea%b8%b0-minilm-scann-%ea%b7%b8%eb%a6%ac%ea%b3%a0-tfserving/)
 
+## AB180
+- [2017, Data science with R - 1. 오해](https://blog.ab180.co/posts/data-science-with-r-1-misperception)
+- [2017, Data science with R - 2. 데이터 시각화](https://blog.ab180.co/posts/data-science-with-r-2-data-visualization)
+- [2017, Data science with R - 3. 최적화](https://blog.ab180.co/posts/data-science-with-r-3-optimization)
+- [2017, Data science with R - 4. 멀티 터치 기여도 모델](https://blog.ab180.co/posts/data-science-with-r-4-multi-touch-attribution)
+- [2017, Data science with R - 5. 크로스 디바이스 매칭(Cross Device Matching)](https://blog.ab180.co/posts/data-science-with-r-5-cross-device-matching)
+- [2017, Data science with R - 6. RTB란?](https://blog.ab180.co/posts/data-science-with-r-6-rtb)
+
 ## Pinterest
 - [2018, An update on Pixie, Pinterest’s recommendation system](https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b)
 - 
