@@ -46,6 +46,7 @@
 - [2016, 루빅스(RUBICS) – kakao의 실시간 추천 시스템](https://tech.kakao.com/2016/04/27/rubics/)
 - [2017, [카카오AI리포트]내 손안의 AI비서, 추천 알고리듬](https://brunch.co.kr/@kakao-it/72#comment)
 - [2017, [카카오AI리포트]카카오I 추천 엔진의 진화](https://brunch.co.kr/@kakao-it/136)
+- [2017, [카카오AI리포트]더욱 똑똑해진 AI 광고 알고리듬](https://brunch.co.kr/@kakao-it/84)
 - [2019, 브런치 추천의 힘에 대한 6가지 기술](https://brunch.co.kr/@kakao-it/333)
 - [2020, 멜론에서 음악 추천을 어떻게 할까?](https://brunch.co.kr/@kakao-it/342)
 - [2021, 카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
@@ -73,6 +74,8 @@
 
 ## 스포티파이
 - [2021, 스포티파이: 맞춤형 플레이리스트 개발 비하인드 스토리](https://yozm.wishket.com/magazine/detail/1322/)
+- [2022, Modeling Users According to Their Slow and Fast-Moving Interests](https://research.atspotify.com/modeling-users-according-to-their-slow-and-fast-moving-interests/?fbclid=IwAR1bvYJv1noUBZej_s1JRHQFAUwRx4udXgwy8_FFbOMqU86DF37oBhuLu94)
+- [2022, Mostra: Balancing multiple objectives for music recommendation](https://research.atspotify.com/mostra-balancing-multiple-objectives-for-music-recommendation/?fbclid=IwAR2ZWhn6FIOzAFjgysi0yLMjaMqp0f74S7Kk5UuGXVFf9msdHReADF8jGis)
 
 ## 그 외 자료
 - [Y.LAB](https://yamalab.tistory.com/category/Recommender%20System/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C?page=1)
@@ -101,3 +104,4 @@
 - [2021, AI 알고리즘의 딜레마...‘선택의 역설’vs‘에코챔버’·‘필터버블’](https://zdnet.co.kr/view/?no=20210621135006)
 - [2021, How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/)
 - [2022, [Translation] Recommender Systems, Not Just Recommender Models](https://higee.io/translation-recommender-systems-not-just-recommender-models-c024a97d7d74)
+- [2022, 프롬 특강 - 신뢰할 수 있는 A/B 테스트를 위해 알아야할 것들 (이민호)](https://www.youtube.com/watch?v=5nXu1E0m4e0)
