@@ -18,14 +18,6 @@
 - [2015, Pinnability: Machine learning in the home feed](https://medium.com/pinterest-engineering/pinnability-machine-learning-in-the-home-feed-64be2074bf60)
 - [blog](https://medium.com/@Pinterest_Engineering)
 
-## AB180
-- [2017, Data science with R - 1. 오해](https://blog.ab180.co/posts/data-science-with-r-1-misperception)
-- [2017, Data science with R - 2. 데이터 시각화](https://blog.ab180.co/posts/data-science-with-r-2-data-visualization)
-- [2017, Data science with R - 3. 최적화](https://blog.ab180.co/posts/data-science-with-r-3-optimization)
-- [2017, Data science with R - 4. 멀티 터치 기여도 모델](https://blog.ab180.co/posts/data-science-with-r-4-multi-touch-attribution)
-- [2017, Data science with R - 5. 크로스 디바이스 매칭(Cross Device Matching)](https://blog.ab180.co/posts/data-science-with-r-5-cross-device-matching)
-- [2017, Data science with R - 6. RTB란?](https://blog.ab180.co/posts/data-science-with-r-6-rtb)
-
 ## Riiid
 - [2020, AI 프로젝트 실패의 5가지 원인](https://medium.com/riiid-teamblog-kr/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
 - 
@@ -80,6 +72,18 @@
 - [2022, Modeling Users According to Their Slow and Fast-Moving Interests](https://research.atspotify.com/modeling-users-according-to-their-slow-and-fast-moving-interests/?fbclid=IwAR1bvYJv1noUBZej_s1JRHQFAUwRx4udXgwy8_FFbOMqU86DF37oBhuLu94)
 - [2022, Mostra: Balancing multiple objectives for music recommendation](https://research.atspotify.com/mostra-balancing-multiple-objectives-for-music-recommendation/?fbclid=IwAR2ZWhn6FIOzAFjgysi0yLMjaMqp0f74S7Kk5UuGXVFf9msdHReADF8jGis)
 - [2021, 스포티파이: 맞춤형 플레이리스트 개발 비하인드 스토리](https://yozm.wishket.com/magazine/detail/1322/)
+
+## 마이리얼트립
+- [2020, 추천 서비스와 아키텍처[1]-추천 서비스란 무엇인가](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-1-40ddb5e7e3bd)
+- [2020, 추천 서비스와 아키텍처[2]-추천 서비스 제공을 위한 아키텍처](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2-%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-9897d6dc8bc9)
+
+## AB180
+- [2017, Data science with R - 1. 오해](https://blog.ab180.co/posts/data-science-with-r-1-misperception)
+- [2017, Data science with R - 2. 데이터 시각화](https://blog.ab180.co/posts/data-science-with-r-2-data-visualization)
+- [2017, Data science with R - 3. 최적화](https://blog.ab180.co/posts/data-science-with-r-3-optimization)
+- [2017, Data science with R - 4. 멀티 터치 기여도 모델](https://blog.ab180.co/posts/data-science-with-r-4-multi-touch-attribution)
+- [2017, Data science with R - 5. 크로스 디바이스 매칭(Cross Device Matching)](https://blog.ab180.co/posts/data-science-with-r-5-cross-device-matching)
+- [2017, Data science with R - 6. RTB란?](https://blog.ab180.co/posts/data-science-with-r-6-rtb)
 
 ## 그 외 자료
 - [Y.LAB](https://yamalab.tistory.com/category/Recommender%20System/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C?page=1)
