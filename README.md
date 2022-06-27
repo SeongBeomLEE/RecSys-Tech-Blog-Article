@@ -18,6 +18,9 @@
 - [2015, Pinnability: Machine learning in the home feed](https://medium.com/pinterest-engineering/pinnability-machine-learning-in-the-home-feed-64be2074bf60)
 - [blog](https://medium.com/@Pinterest_Engineering)
 
+## Airbnb
+- [2022, Graph Machine Learning at Airbnb](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
+
 ## Riiid
 - [2020, AI 프로젝트 실패의 5가지 원인](https://medium.com/riiid-teamblog-kr/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
 - 
