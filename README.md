@@ -25,6 +25,10 @@
 - [2020, AI 프로젝트 실패의 5가지 원인](https://medium.com/riiid-teamblog-kr/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
 - 
 
+## 당근마켓
+- [2019, 딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
+- [2019, 딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
+
 ## 번개장터
 - [2019, 번개장터 추천 시스템 개발 및 도입후기 Part1](https://www.theteams.kr/teams/7937/post/70672)
 - [2019, 번개장터 추천 시스템 개발 및 도입후기 Part2](https://www.theteams.kr/teams/7937/post/70673)
