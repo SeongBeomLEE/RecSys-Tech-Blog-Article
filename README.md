@@ -94,6 +94,8 @@
 
 ## 그 외 자료
 - [Y.LAB](https://yamalab.tistory.com/category/Recommender%20System/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C?page=1)
+- [GBRS LAB](https://modulabs-hub.oopy.io/6d2d2394-92fb-4715-a132-3d9f3e5b25a8)
+- [BRS LAB](https://modulabs-hub.oopy.io/ab1646ce-7b60-4ef6-8d69-1eb009684f07)
 - [2022, [Translation] Recommender Systems, Not Just Recommender Models](https://higee.io/translation-recommender-systems-not-just-recommender-models-c024a97d7d74)
 - [2022, 프롬 특강 - 신뢰할 수 있는 A/B 테스트를 위해 알아야할 것들 (이민호)](https://www.youtube.com/watch?v=5nXu1E0m4e0)
 - [2021, Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
