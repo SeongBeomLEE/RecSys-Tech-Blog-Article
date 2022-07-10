@@ -5,6 +5,7 @@
 
 ## Airbnb
 - [2022, Graph Machine Learning at Airbnb](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
+- [2017, Introducing Pixie, an advanced graph-based recommendation system](https://medium.com/pinterest-engineering/introducing-pixie-an-advanced-graph-based-recommendation-system-e7b4229b664b)
 
 ## HYPERCONNECT
 - [2022, 이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
@@ -44,10 +45,12 @@
 - [2017, 똑똑한 인공지능 DJ 비서 Clova Music](https://tv.naver.com/v/2302007)
 
 ## Pinterest
+- [2018, [스타트업in] 핀터레스트, "어머 이거 수집해야돼" 수집 욕구 자극하는 직관적인 SNS ](https://www.dailypop.kr/news/articleView.html?idxno=35268)
 - [2018, PinSage: A new graph convolutional neural network for web-scale recommender systems](https://medium.com/pinterest-engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 - [2018, An update on Pixie, Pinterest’s recommendation system](https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b)
 - [2017, Introducing Pixie, an advanced graph-based recommendation system](https://medium.com/pinterest-engineering/introducing-pixie-an-advanced-graph-based-recommendation-system-e7b4229b664b)
 - [2017, Applying deep learning to Related Pins](https://medium.com/the-graph/applying-deep-learning-to-related-pins-a6fee3c92f5e#.m1zyskflp)
+- [2016, Pinterest로 알아보는 스타트업 전략](https://brunch.co.kr/@davidjkpark/10)
 - [2015, Pinnability: Machine learning in the home feed](https://medium.com/pinterest-engineering/pinnability-machine-learning-in-the-home-feed-64be2074bf60)
 - [blog](https://medium.com/@Pinterest_Engineering)
 
@@ -92,9 +95,12 @@
 - [2021, [돈까스 좋아해요?] — 요기요 ML엔지니어의 3개월](https://techblog.yogiyo.co.kr/%EB%8F%88%EA%B9%8C%EC%8A%A4-%EC%A2%8B%EC%95%84%ED%95%B4%EC%9A%94-%EC%9A%94%EA%B8%B0%EC%9A%94-ml%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-3%EA%B0%9C%EC%9B%94-4ff2af439487)
 
 ## 그 외 자료
+### 블로그 및 모읍집
 - [Y.LAB](https://yamalab.tistory.com/category/Recommender%20System/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C?page=1)
 - [GBRS LAB](https://modulabs-hub.oopy.io/6d2d2394-92fb-4715-a132-3d9f3e5b25a8)
 - [BRS LAB](https://modulabs-hub.oopy.io/ab1646ce-7b60-4ef6-8d69-1eb009684f07)
+
+### 2022
 - [2022, The recommender revolution](https://www.technologyreview.com/2022/04/27/1048517/the-recommender-revolution/)
 - [2022, [Translation] Recommender Systems, Not Just Recommender Models](https://higee.io/translation-recommender-systems-not-just-recommender-models-c024a97d7d74)
 - [2022, 프롬 특강 - 신뢰할 수 있는 A/B 테스트를 위해 알아야할 것들 (이민호)](https://www.youtube.com/watch?v=5nXu1E0m4e0)
@@ -102,6 +108,8 @@
 - [2022, 넷플릭스의 A/B Testing - 거짓 음성과 검정력](https://playinpap.github.io/netflix-ab-testing-fn/)
 - [2022, 넷플릭스에서 A/B 테스트를 해석하는 법: 거짓 양성 오류 알아보기](https://playinpap.github.io/interpreting-a/b-test-results-false-positives/)
 - [2022, 선추천후감상- Learning Recommendation](https://playinpap.github.io/reco-first-enjoy-after-learning-recommendation/)
+
+### 2021
 - [2021, Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
 - [2021, Item2Item: Wider and Deeper Product Recommendation](https://tv.naver.com/v/20311903/list/709884)
 - [2021, Overview Negative Sampling on Recommendation Systems](https://medium.com/mlearning-ai/overview-negative-sampling-on-recommendation-systems-230a051c6cd7)
@@ -109,26 +117,36 @@
 - [2021, ‘별점’의 해결책 "집단지성 메커니즘 제대로 작동해야"](https://zdnet.co.kr/view/?no=20210531153513)
 - [2021, AI 알고리즘의 딜레마...‘선택의 역설’vs‘에코챔버’·‘필터버블’](https://zdnet.co.kr/view/?no=20210621135006)
 - [2021, How Can Recommender Systems Contribute to Mitigate Echo Chambers and Filter Bubbles?](https://takuti.me/note/recsys-2021-echo-chambers-and-filter-bubbles/)
+
+### 2020
 - [2020, 뭐볼까? : 네이버 AiRS 인공지능 콘텐츠 추천의 진화](https://tv.naver.com/v/16968202?query=NAVER+Engineering%2C+%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C&plClips=false:16137697:16968206:19499805:15624686:15436151:16970750:19451057:18582667:19149564:15841749:18387813:4580088:14347749:14951460:19188921:1543714:3144570:16968208:16972082:16971866:16972084:5874822:16366105:16405099:19244453:19040189:2297146:19489169:18996671:15776820:18634923:16968202:19248843:19223749:16028986:18973670:19028868:18514575:14711496:17022125)
 - [2020, 추천시스템 3.0: 딥러닝 후기시대에서 바이어스, 그래프, 그리고 인과관계의 중요성](https://tv.naver.com/v/16970750?query=NAVER+Engineering%2C+%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C&plClips=false:16137697:16968206:19499805:15624686:15436151:16970750:19451057:18582667:19149564:15841749:18387813:4580088:14347749:14951460:19188921:1543714:3144570:16968208:16972082:16971866:16972084:5874822:16366105:16405099:19244453:19040189:2297146:19489169:18996671:15776820:18634923:16968202:19248843:19223749:16028986:18973670:19028868:18514575:14711496:17022125)
 - [2020, 당신 취향의 맛집을 추천해드립니다 : 장소 개인화 추천 시스템의 비밀](https://tv.naver.com/v/16968206?query=NAVER+Engineering%2C+%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C&plClips=false:16137697:16968206:19499805:15624686:15436151:16970750:19451057:18582667:19149564:15841749:18387813:4580088:14347749:14951460:19188921:1543714:3144570:16968208:16972082:16971866:16972084:5874822:16366105:16405099:19244453:19040189:2297146:19489169:18996671:15776820:18634923:16968202:19248843:19223749:16028986:18973670:19028868:18514575:14711496:17022125)
-- [2020, 유저가 좋은 작품(웹툰)를 만났을 때](https://tv.naver.com/v/16968269)
+- [2020, 유저가 좋은 작품(웹툰)를 만났을 때](https://tv.naver.com/v/16968269) <- 강추
 - [2020, 딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
-- [2019, 추천시스템, 이제는 돈이 되어야 한다.](https://www.youtube.com/watch?v=RK3-aNWveMs)
+
+### 2019
+- [2019, 추천시스템, 이제는 돈이 되어야 한다.](https://www.youtube.com/watch?v=RK3-aNWveMs) <- 강추
 - [2019, Recent Advances in Deep Recommender Systems](https://tv.naver.com/v/9976771?query=NAVER+Engineering%2C+%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C&plClips=false:8222729:8222640:17080622:18403041:18870581:18790614:18952902:17522658:18683564:8222555:16332316:11602269:18754236:8222518:16365186:16365062:10363799:16255370:14388400:18282841:9976771:17409268:8222700:14590656:17378255:16511099:18792603:19224013:18639482:18088082:8222610:18960196:19495120:8222553:8222728:18438817:8222748:13515470:19396298:8222746)
 - [2019, 개인화 서비스는 어떻게 만드나요? - 1편](https://brunch.co.kr/@plusx/30)
 - [2019, 개인화 서비스는 어떻게 만드나요? - 2편](https://brunch.co.kr/@plusx/32)
 - [2019, 쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)](https://tv.naver.com/v/11212875)
-- [2018, 눈으로 듣는 음악 추천 시스템](https://tv.kakao.com/channel/3150758/cliplink/391418802)
-- [2018, 눈으로 듣는 음악 추천 시스템 + a](https://brunch.co.kr/@goodvc78/20)
+
+### 2018
+- [2018, 눈으로 듣는 음악 추천 시스템](https://tv.kakao.com/channel/3150758/cliplink/391418802) <- 강추
+- [2018, 눈으로 듣는 음악 추천 시스템 + a](https://brunch.co.kr/@goodvc78/20) <- 강추
 - [2018, 추천 시스템을 위한 어플리케이션 서버 개발 후기](https://www.youtube.com/watch?v=6oOQJtLa14U)
 - [2018, Word2vec을 응용한 컨텐츠 클러스터링](https://brunch.co.kr/@mobiinside/950)
 - [2018, lightweight approximate Nearest Neighbor library](https://tv.kakao.com/channel/3150758/cliplink/391419278)
-- [2017, Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
+
+### 2017
+- [2017, Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16) <- 강추
 - [2017, Data science with R - 1. 오해](https://blog.ab180.co/posts/data-science-with-r-1-misperception)
 - [2017, Data science with R - 2. 데이터 시각화](https://blog.ab180.co/posts/data-science-with-r-2-data-visualization)
 - [2017, Data science with R - 3. 최적화](https://blog.ab180.co/posts/data-science-with-r-3-optimization)
 - [2017, Data science with R - 4. 멀티 터치 기여도 모델](https://blog.ab180.co/posts/data-science-with-r-4-multi-touch-attribution)
 - [2017, Data science with R - 5. 크로스 디바이스 매칭(Cross Device Matching)](https://blog.ab180.co/posts/data-science-with-r-5-cross-device-matching)
 - [2017, Data science with R - 6. RTB란?](https://blog.ab180.co/posts/data-science-with-r-6-rtb)
-- [2015, 추천시스템이 word2vec을 만났을때](https://www.youtube.com/watch?v=iutEgQg7yws)
+
+### 2015
+- [2015, 추천시스템이 word2vec을 만났을때](https://www.youtube.com/watch?v=iutEgQg7yws) <- 강추
