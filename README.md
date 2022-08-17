@@ -18,6 +18,7 @@
 - [2021, 카카오 AI 추천을 소개합니다.](https://tech.kakao.com/2021/03/11/kakao-ai/)
 - [2020, 멜론에서 음악 추천을 어떻게 할까?](https://brunch.co.kr/@kakao-it/342)
 - [2019, 브런치 추천의 힘에 대한 6가지 기술](https://brunch.co.kr/@kakao-it/333)
+- [2018, 열독률 적용한 카카오 추천 알고리즘, 그 결과는?](https://brunch.co.kr/@kakao-it/212)
 - [2017, [카카오AI리포트]내 손안의 AI비서, 추천 알고리듬](https://brunch.co.kr/@kakao-it/72#comment)
 - [2017, [카카오AI리포트]카카오I 추천 엔진의 진화](https://brunch.co.kr/@kakao-it/136)
 - [2017, [카카오AI리포트]더욱 똑똑해진 AI 광고 알고리듬](https://brunch.co.kr/@kakao-it/84)
