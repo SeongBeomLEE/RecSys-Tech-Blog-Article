@@ -93,6 +93,7 @@
 - [2021, 유저들이 정말로 원하는 컨텐츠는 무엇일까? — 우리의 추천시스템의 시작 (2)](https://medium.com/styleshare/styleshare-recommendation-beginning-2-74aa50c84510)
 
 ## 요기요
+- [2022, [알잘딱깔센 추천 모델 만들기] — GNN을 활용한 요기요의 추천 모델 YoSEMITE](https://techblog.yogiyo.co.kr/%EC%95%8C%EC%9E%98%EB%94%B1%EA%B9%94%EC%84%BC-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-gnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EA%B8%B0%EC%9A%94%EC%9D%98-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-yosemite-33b0600d2464)
 - [2021, [돈까스 좋아해요?] — 요기요 ML엔지니어의 3개월](https://techblog.yogiyo.co.kr/%EB%8F%88%EA%B9%8C%EC%8A%A4-%EC%A2%8B%EC%95%84%ED%95%B4%EC%9A%94-%EC%9A%94%EA%B8%B0%EC%9A%94-ml%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-3%EA%B0%9C%EC%9B%94-4ff2af439487)
 
 ## 그 외 자료
