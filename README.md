@@ -28,6 +28,9 @@
 - [2020, Understanding dwell time to improve LinkedIn feed ranking](https://engineering.linkedin.com/blog/2020/understanding-feed-dwell-time)
 
 ## LINER
+- [2022, 콜드 스타트 사용자에게 콘텐츠 추천을 ! – 트렌드 기반 추천](https://blog.getliner.com/trending-recommendation/)
+- [2022, LINERVA-WALK : Pixie 기반 랜덤 워크 추천 모델링](https://blog.getliner.com/linerva-walk/)
+- [2022, 콘텐츠 기반 필터링에 PinnerSage 입히기](https://blog.getliner.com/pinnersage/)
 - [2022, Bag-of-Tricks for Recommendation: Recency, Clustering 그리고 Item Shuffling](https://blog.getliner.com/bag-of-tricks-for-recommendation-recency-clustering-%ea%b7%b8%eb%a6%ac%ea%b3%a0-item-shuffling/)
 - [2022, 컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing](https://blog.getliner.com/%ec%bb%a8%ed%85%90%ec%b8%a0-%ea%b8%b0%eb%b0%98-%ed%95%84%ed%84%b0%eb%a7%81-%ea%b5%ac%ec%b6%95%ea%b8%b0-minilm-scann-%ea%b7%b8%eb%a6%ac%ea%b3%a0-tfserving/)
 - [2021, 양질 중 우선시 되어야 하는 것은? Quality!](https://blog.getliner.com/%ec%96%91%ec%a7%88-%ec%a4%91-%ec%9a%b0%ec%84%a0%ec%8b%9c-%eb%90%98%ec%96%b4%ec%95%bc-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-quality/)
