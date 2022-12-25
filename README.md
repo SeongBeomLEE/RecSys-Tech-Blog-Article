@@ -1,5 +1,6 @@
 # RecSys-Tech-Blog-Article
 - 추천 시스템 관련 자료를 모으고 있습니다.
+- 추천 시스템을 만드는데 필요한 자료라면 무엇이든 추가할 예정입니다.
 - 추가할 자료가 있다면 PR을 남겨주세요.
 
 ## Airbnb
@@ -11,6 +12,8 @@
 - [2021, 비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
 
 ## KAKAO
+- [2022, Explainable Recommender System in 카카오웹툰](https://if.kakao.com/2022/session/9)
+- [2022, Sequential Recommendation System 카카오 서비스 적용기](https://if.kakao.com/2022/session/8)
 - [2021, 카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
 - [2021, 카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/)
 - [2021, 카카오 AI추천 : 카카오페이지와 멜론으로 살펴보는 카카오 연관 추천](https://tech.kakao.com/2021/05/20/kakao-ai-recommendation/)
@@ -69,6 +72,11 @@
 ## TikTok
 - [2022, 틱톡 추천(For You Page) 알고리즘의 비밀](https://excitingfx.kr/tiktoksecretalgorithm/)
 - [2020, How TikTok recommends videos #ForYou](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)
+
+## Upstage
+- [2022, 추천 AI Pack 개발로 고객 성공 사례를 만들다 - [스타뷰 Vol. 3] RecSys & AI Challenges팀](https://www.upstage.ai/blog/people/recsys-ai-challenges-interview)
+- [2022, 커머스 플랫폼 빌더 ‘(주)브랜디’가 말하는 플랫폼 성장의 원동력, ‘AI 추천 기술’ - (주)브랜디 데이터최적화실장 최원조님 인터뷰](https://www.upstage.ai/blog/business/customer-success-stories-brandi)
+- [2022, [AI 트렌드] 매출 성장의 비결로 떠오른 검색· 추천 기술, Seargest](https://www.upstage.ai/blog/insight/2023-ai-tech-trend-seargest)
 
 ## WATCHA
 - [2021, 1년차 주니어가 추천 시스템 현장에서 마주한 고민](https://medium.com/watcha/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%80-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EA%B3%A0%EB%AF%BC-12f568eb2cc2)
