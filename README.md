@@ -1,7 +1,6 @@
 # RecSys-Tech-Blog-Article
-추천 시스템 관련 자료를 모으고 있습니다.
-
-# List
+- 추천 시스템 관련 자료를 모으고 있습니다.
+- 추가할 자료가 있다면 PR을 남겨주세요.
 
 ## Airbnb
 - [2022, Graph Machine Learning at Airbnb](https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee)
