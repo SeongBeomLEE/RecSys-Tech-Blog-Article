@@ -41,6 +41,7 @@
 - [2020, 유해 키워드 필터링 문제와 해결](https://blog.getliner.com/word-filtering-experience/)
 
 ## NAVER
+- [2021, Bring Your Own Data: Business AI 고민? HyperCLOVA에게 무엇이든 물어보살](https://deview.kr/2021/sessions/434)
 - [2021, 네이버 뉴스 추천 알고리즘에 대해 (Part1)](https://blog.naver.com/PostView.naver?blogId=naver_search&logNo=222439351406&parentCategoryNo=&categoryNo=52&viewDate=&isShowPopularPosts=false&from=postView)
 - [2021, 네이버 뉴스 추천 알고리즘에 대해 (Part2)](https://blog.naver.com/PostView.naver?blogId=naver_search&logNo=222439504418&parentCategoryNo=&categoryNo=52&viewDate=&isShowPopularPosts=false&from=postView)
 - [2021, 네이버 뉴스 추천 알고리즘에 대해 (Part3)](https://blog.naver.com/PostView.naver?blogId=naver_search&logNo=222439512532&parentCategoryNo=&categoryNo=52&viewDate=&isShowPopularPosts=false&from=postView)
