@@ -30,6 +30,7 @@
 - [2020, Understanding dwell time to improve LinkedIn feed ranking](https://engineering.linkedin.com/blog/2020/understanding-feed-dwell-time)
 
 ## LINER
+- [2022, 그 많던 벡터는 다 어디로 갔을까? Milvus 활용기](https://blog.getliner.com/milvus-usage/)
 - [2022, 콜드 스타트 사용자에게 콘텐츠 추천을 ! – 트렌드 기반 추천](https://blog.getliner.com/trending-recommendation/)
 - [2022, LINERVA-WALK : Pixie 기반 랜덤 워크 추천 모델링](https://blog.getliner.com/linerva-walk/)
 - [2022, 콘텐츠 기반 필터링에 PinnerSage 입히기](https://blog.getliner.com/pinnersage/)
