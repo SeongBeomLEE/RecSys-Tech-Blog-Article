@@ -53,6 +53,7 @@
 - [2017, 똑똑한 인공지능 DJ 비서 Clova Music](https://tv.naver.com/v/2302007)
 
 ## Pinterest
+- [2020, PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://medium.com/pinterest-engineering/pinnersage-multi-modal-user-embedding-framework-for-recommendations-at-pinterest-bfd116b49475)
 - [2018, [스타트업in] 핀터레스트, "어머 이거 수집해야돼" 수집 욕구 자극하는 직관적인 SNS ](https://www.dailypop.kr/news/articleView.html?idxno=35268)
 - [2018, PinSage: A new graph convolutional neural network for web-scale recommender systems](https://medium.com/pinterest-engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 - [2018, An update on Pixie, Pinterest’s recommendation system](https://medium.com/pinterest-engineering/an-update-on-pixie-pinterests-recommendation-system-6f273f737e1b)
