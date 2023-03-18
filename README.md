@@ -8,6 +8,7 @@
 - [2017, Introducing Pixie, an advanced graph-based recommendation system](https://medium.com/pinterest-engineering/introducing-pixie-an-advanced-graph-based-recommendation-system-e7b4229b664b)
 
 ## HYPERCONNECT
+- [2023, 실시간 추천 시스템을 위한 Feature Store 구현기](https://deview.kr/2023/sessions/536)
 - [2022, 이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
 - [2021, 비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
 
@@ -42,6 +43,10 @@
 - [2020, 유해 키워드 필터링 문제와 해결](https://blog.getliner.com/word-filtering-experience/)
 
 ## NAVER
+- [2023, 언어 모델 기반의 범용 유저 임베딩과 이를 활용한 추천시스템 및 광고 타겟팅](https://deview.kr/2023/sessions/539)
+- [2023, 상황에 맞는 취향 장소 발견하기. HyperLocal 추천 시스템 A to Z](https://deview.kr/2023/sessions/553)
+- [2023, 지금까지 이런 검색은 없었다. 이것은 검색인가 추천인가 - 네이버 스마트블록 개인화 검색](https://deview.kr/2023/sessions/563)
+- [2023, 네이버 검색은 어떻게 나보다 더 내 의도를 잘 아는가? : AiRSearch 반응형 추천](https://deview.kr/2023/sessions/546)
 - [2021, Bring Your Own Data: Business AI 고민? HyperCLOVA에게 무엇이든 물어보살](https://deview.kr/2021/sessions/434)
 - [2021, 네이버 뉴스 추천 알고리즘에 대해 (Part1)](https://blog.naver.com/PostView.naver?blogId=naver_search&logNo=222439351406&parentCategoryNo=&categoryNo=52&viewDate=&isShowPopularPosts=false&from=postView)
 - [2021, 네이버 뉴스 추천 알고리즘에 대해 (Part2)](https://blog.naver.com/PostView.naver?blogId=naver_search&logNo=222439504418&parentCategoryNo=&categoryNo=52&viewDate=&isShowPopularPosts=false&from=postView)
