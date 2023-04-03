@@ -79,6 +79,9 @@
 - [2022, Mostra: Balancing multiple objectives for music recommendation](https://research.atspotify.com/mostra-balancing-multiple-objectives-for-music-recommendation/?fbclid=IwAR2ZWhn6FIOzAFjgysi0yLMjaMqp0f74S7Kk5UuGXVFf9msdHReADF8jGis)
 - [2021, 스포티파이: 맞춤형 플레이리스트 개발 비하인드 스토리](https://yozm.wishket.com/magazine/detail/1322/)
 
+## Twitter
+- [2023, Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+
 ## TikTok
 - [2022, 틱톡 추천(For You Page) 알고리즘의 비밀](https://excitingfx.kr/tiktoksecretalgorithm/)
 - [2020, How TikTok recommends videos #ForYou](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you/)
