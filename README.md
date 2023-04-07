@@ -31,6 +31,8 @@
 - [2020, Understanding dwell time to improve LinkedIn feed ranking](https://engineering.linkedin.com/blog/2020/understanding-feed-dwell-time)
 
 ## LINER
+- [2023. TikTok for Text! 라이너 앱 Session-based Recommender 구축기](https://blog.getliner.com/sessrec/)
+- [2023, LINER Chat: From Prompt Engineering to Plugins](https://blog.getliner.com/liner-chat/)
 - [2023, Sequential Recommenders: 기계들과 회로들](https://blog.getliner.com/sequential-recommenders/)
 - [2022, 그 많던 벡터는 다 어디로 갔을까? Milvus 활용기](https://blog.getliner.com/milvus-usage/)
 - [2022, 콜드 스타트 사용자에게 콘텐츠 추천을 ! – 트렌드 기반 추천](https://blog.getliner.com/trending-recommendation/)
