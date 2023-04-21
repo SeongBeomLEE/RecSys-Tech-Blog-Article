@@ -137,6 +137,7 @@
 - [2022, 선추천후감상- Learning Recommendation](https://playinpap.github.io/reco-first-enjoy-after-learning-recommendation/)
 
 ### 2021
+- [2021, System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
 - [2021, Modern Recommender Systems](https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8)
 - [2021, Item2Item: Wider and Deeper Product Recommendation](https://tv.naver.com/v/20311903/list/709884)
 - [2021, Overview Negative Sampling on Recommendation Systems](https://medium.com/mlearning-ai/overview-negative-sampling-on-recommendation-systems-230a051c6cd7)
