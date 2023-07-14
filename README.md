@@ -31,6 +31,8 @@
 - [2020, Understanding dwell time to improve LinkedIn feed ranking](https://engineering.linkedin.com/blog/2020/understanding-feed-dwell-time)
 
 ## LINER
+- [2023, Graph in LINER : 글로벌 추천 프로덕트에 GNN 적용하기](https://blog.getliner.com/graph-in-liner/)
+- [2023, Human-AI Co-Learning을 향해! 강화학습 기반 랭킹 모델 도입기](https://blog.getliner.com/mab-based-ranker/)
 - [2023. TikTok for Text! 라이너 앱 Session-based Recommender 구축기](https://blog.getliner.com/sessrec/)
 - [2023, LINER Chat: From Prompt Engineering to Plugins](https://blog.getliner.com/liner-chat/)
 - [2023, Sequential Recommenders: 기계들과 회로들](https://blog.getliner.com/sequential-recommenders/)
@@ -116,6 +118,10 @@
 ## 스타일쉐어
 - [2021, 유저들이 정말로 원하는 컨텐츠는 무엇일까? — 우리의 추천시스템의 시작 (1)](https://medium.com/styleshare/styleshare-recommendation-beginning-1-c70e159e7479)
 - [2021, 유저들이 정말로 원하는 컨텐츠는 무엇일까? — 우리의 추천시스템의 시작 (2)](https://medium.com/styleshare/styleshare-recommendation-beginning-2-74aa50c84510)
+
+## 오늘의 집
+- [2023, 유사 이미지 추천 개발 #2 비슷한 상품](https://www.bucketplace.com/post/2023-07-13-%EC%9C%A0%EC%82%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B0%9C-2-%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%83%81%ED%92%88/)
+- [2023, 유사 이미지 추천 개발 #1 비슷한 공간](https://www.bucketplace.com/post/2023-05-22-%EC%9C%A0%EC%82%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B0%9C-1-%EB%B9%84%EC%8A%B7%ED%95%9C-%EA%B3%B5%EA%B0%84/)
 
 ## 요기요
 - [2022, [알잘딱깔센 추천 모델 만들기] — GNN을 활용한 요기요의 추천 모델 YoSEMITE](https://techblog.yogiyo.co.kr/%EC%95%8C%EC%9E%98%EB%94%B1%EA%B9%94%EC%84%BC-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-gnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9A%94%EA%B8%B0%EC%9A%94%EC%9D%98-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-yosemite-33b0600d2464)
