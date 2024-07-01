@@ -105,6 +105,9 @@
 - [2021, 추천 서비스가 컨테이너를 만났을 때-Part 2](https://medium.com/watcha/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%80-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC-%EB%A7%8C%EB%82%AC%EC%9D%84-%EB%95%8C-part-2-775a1e00795d)
 
 ## 당근마켓
+- [2024, 당근 홈피드의 진화와 역사 | 당근 ML 밋업 1회](https://www.youtube.com/watch?v=TcG3JjPIXVc&list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y&index=2)
+- [2024, LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회](https://www.youtube.com/watch?v=NzxlIGPbICY&list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y&index=3)
+- [2024, 당근 ML인프라 A to Z : 현재와 미래 | 당근 ML 밋업 1회](https://www.youtube.com/watch?v=gTXBr2r1104&list=PLaHcMRg2hoBqSQM48ospyb9hQTzzvMF4y&index=4)
 - [2019, 딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
 - [2019, 딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a)
 
